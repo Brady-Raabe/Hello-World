@@ -13,15 +13,16 @@ This is a sample README.md comparing and analyzing players of the Milwaukee Brew
 
 ## Project Title
 
-*Hello World Sample - My First Repository*   
+*Hello World - My First Repository Analyzing the Milwaukee Brewers. 
 
 ## Description
+In this project, I compiled offensive statistics for Milwaukee Brewers players from the 2026 season and compared their performances using advanced baseball metrics. The two primary statistics I focused on were weighted runs created plus (wRC+) and wins above replacement (WAR). To qualify for my analysis, players needed to meet a minimum threshold of 100 plate appearances during the regular season.
 
-Practice using GitHub by creating a sample repository. Make sure you add a description to help others understand your project. This should explain in detail what you did in this project, what you accomplished, outcomes, results, so on.  Make this a couple of paragraphs.
+After compiling the statistics, I analyzed and compared player rankings based on wRC+ and WAR. wRC+ measures a player's offensive production relative to the league average while accounting for factors such as ballpark effects, with 100 representing league-average performance. WAR estimates a player's overall contribution compared to a replacement-level player. By comparing these two statistics, I was able to evaluate offensive efficiency alongside overall player value and identify differences in how players contributed to the Brewers' success.
 
 ## Tools Used 
 
-Discussed all programming languages and tools used in this project.  This could include Python, SQL, Excel, Power BI, Websites and more.
+I used Execl in this project. I used Execl to compile both wRC+ as well as each players WAR into a file to use both as metrics.
 
 ## Files Used 
 
