@@ -25,14 +25,9 @@ After compiling the statistics, I analyzed and compared player rankings based on
 I used Execl in this project. I used Execl to compile both wRC+ as well as each players WAR into a file to use both as metrics.
 
 ## Files Used 
-
-- Did you use any datafiles?  
-- List filenames
-- Where you got them 
-- What is contained within the data files?
-- Datafile considerations 
-- URL links to files - example here:
-  [Powerball Lottery Winning Numbers since 2010](https://catalog.data.gov/dataset/lottery-powerball-winning-numbers-beginning-2010)
+- https://iowa-my.sharepoint.com/:x:/g/personal/braabe_uiowa_edu/IQAy6uGPndN1RYghO0AjzWIvAU8fE7bsYnTt79YF8tmZFBI?e=aK7bN3
+- 
+- https://www.fangraphs.com/teams/brewers/stats
 
 ## How to Run Program
 
