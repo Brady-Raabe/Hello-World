@@ -27,6 +27,7 @@ I used Execl in this project. I used Execl to compile both wRC+ as well as each 
 ## Files Used 
 - https://iowa-my.sharepoint.com/:x:/g/personal/braabe_uiowa_edu/IQAy6uGPndN1RYghO0AjzWIvAU8fE7bsYnTt79YF8tmZFBI?e=aK7bN3
 - 
+- https://www.mlb.com/brewers/video/seranthony-dominguez-in-play-run-s-to-christian-yelich
 - https://www.fangraphs.com/teams/brewers/stats
 
 ## How to Run Program
