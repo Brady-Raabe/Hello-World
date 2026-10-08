@@ -35,7 +35,7 @@ I used Execl in this project. I used Execl to compile both wRC+ as well as each 
 
 In Excel I used a Pivot Table to find the average wRC+ and War for the Brewers as a team. I also used Excel to create a visualization comparing the two sets of data, within this visualization I added a trendline with a equation to predict a players War based on wRC+    
 ```
-## Additional Information
+**## Additional Information**
 
 This data is not a perfect predictor of War for a player on the Milwaukee Brewers, I determined that wRC+ would be a okay predictor of WAR because of the R^2 value in the data because this number is 0.58 it tells that the data somewhat follows the trendline.
-   
+```
