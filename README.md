@@ -26,35 +26,16 @@ I used Execl in this project. I used Execl to compile both wRC+ as well as each 
 
 ## Files Used 
 - https://iowa-my.sharepoint.com/:x:/g/personal/braabe_uiowa_edu/IQAy6uGPndN1RYghO0AjzWIvAU8fE7bsYnTt79YF8tmZFBI?e=aK7bN3
-- 
+- Yelich Pinch Hit Homerun.jpg
+- The first link is a link to the Excel file containing the data and the second is a link to a picture of a pinch hit homerun hit by Christian Yelich.
 - https://www.mlb.com/brewers/video/seranthony-dominguez-in-play-run-s-to-christian-yelich
 - https://www.fangraphs.com/teams/brewers/stats
 
 ## How to Run Program
 
-Explain here how you would run the program and what files need to be available. 
-```text
-Hello_World/
-└── 
-    │── README.md
-    │── pgmname1.R
-    │── filename1.csv
-    │── examples.html
-   
+In Excel I used a Pivot Table to find the average wRC+ and War for the Brewers as a team. I also used Excel to create a visualization comparing the two sets of data, within this visualization I added a trendline with a equation to predict a players War based on wRC+    
 ```
 ## Additional Information
 
-Here is where you can add links or talk about results or how you are using this information.  This is your place to share more.  
- For now, I'm going to add a few additional Markdown Options: 
- 
-   **BOLD** text 
-   
-   *Italics* text
-   
-   ~~Strikethrough~~ text
-   
-   ***Bold and Italics*** text
-   
-   > Quote information
-> "sdfsdfsd"
+This data is not a perfect predictor of War for a player on the Milwaukee Brewers, I determined that wRC+ would be a okay predictor of WAR because of the R^2 value in the data because this number is 0.58 it tells that the data somewhat follows the trendline.
    
